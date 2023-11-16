@@ -1,0 +1,51 @@
+body{
+    background-color: bisque;
+}
+.title-name{
+    color: crimson;
+    text-align: center;
+    margin-top: 20px;
+}
+.sub-title{
+    color: crimson;
+    text-align:center
+   
+}
+.aboutme{
+    color: crimson;
+}
+.workexperience{
+    color: crimson;
+}
+.projects{
+    color: crimson;
+}
+.education{
+    color: crimson;
+}
+.skills{
+    color: crimson;
+}
+.interest{
+    color: crimson;
+}
+
+table{
+    width: 100%;
+}
+table,th,tr,td{
+    border: 2px solid salmon;
+}
+tr{
+    padding: 4px;
+    width: 10px;
+    height:10px;
+}
+td{
+    padding: 4px;
+    width: 10px;
+    height:10px;
+}
+th{
+    color: crimson;
+}
